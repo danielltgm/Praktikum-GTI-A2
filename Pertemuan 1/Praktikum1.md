@@ -8,12 +8,11 @@
 ---
 
 # Output Lab
-
 ## 1. Shapes Demo
-<img width="954" height="767" alt="image" src="https://github.com/user-attachments/assets/d70e7f2b-f091-41d4-a4a7-c30c6fa47d40" />
+<img width="948" height="760" alt="image" src="https://github.com/user-attachments/assets/e1592dd5-31d4-492f-b26c-d0b96a1e1ba1" />
 
 ## 2. Primitif Drawing
-<img width="958" height="757" alt="image" src="https://github.com/user-attachments/assets/48dfe3bf-4587-46ec-ac41-9a2b362086b2" />
+<img width="951" height="759" alt="image" src="https://github.com/user-attachments/assets/afde0e2f-cf8c-45ae-b10f-7b13aab868a8" />
 
 ## 3. Membuat Titik
 <img width="960" height="765" alt="image" src="https://github.com/user-attachments/assets/8b3231eb-b244-4b26-a1d2-9ab07f54bcf8" />
