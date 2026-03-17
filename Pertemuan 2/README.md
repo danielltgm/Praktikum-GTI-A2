@@ -24,7 +24,8 @@
 
 ## Tugas Praktikum: MobilPertamaku (openGL)
 <img width="1200" height="797" alt="image" src="https://github.com/user-attachments/assets/6df15d29-6257-4aaf-828b-8ff331ab7af1" />
-### Penjelasan
+
+## Penjelasan
 1. lingkaran (float x, float y, float r): Fungsi ini menggambar lingkaran berisi menggunakan poligon dengan 360 titik. Titik-titik yang digunakan dihitung berdasarkan posisi pusat (x,y) dan radius r dengan menggunakan fungsi sin dan cos.
 2. gambarRoda(): Menggambar sebuah roda mobil yang tersusu dari 2 lingkaran; yang besar sebagai ban; dan yang kecil sebagai velg. Menggunakan glPushMatrix() dan glPopMatrix() untuk menyimpan dan mengembalikan state matrix sehingga transformasi yang terjadi itu tidak mempengaruhi  bagian yang lain.
 3. gambarMobil(): Menggambar mobil dengan terdiri dari banyak bagian, yaitu: Badan utama (persegi panjang warna merah), Atap mobil (trapesium warna merah tua), Jendela (persegi panjang biru muda), dilengkapi garis pemisah agar terlihat dua jendela, Gagang pintu (persegi panjang hitam kecil), Roda depan dan roda belakang menggunakan gambarRoda() yang ditempatkan dengan translasi.
