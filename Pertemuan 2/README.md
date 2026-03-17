@@ -29,4 +29,3 @@
 2. gambarRoda(): Menggambar sebuah roda mobil yang tersusu dari 2 lingkaran; yang besar sebagai ban; dan yang kecil sebagai velg. Menggunakan glPushMatrix() dan glPopMatrix() untuk menyimpan dan mengembalikan state matrix sehingga transformasi yang terjadi itu tidak mempengaruhi  bagian yang lain.
 3. gambarMobil(): Menggambar mobil dengan terdiri dari banyak bagian, yaitu: Badan utama (persegi panjang warna merah), Atap mobil (trapesium warna merah tua), Jendela (persegi panjang biru muda), dilengkapi garis pemisah agar terlihat dua jendela, Gagang pintu (persegi panjang hitam kecil), Roda depan dan roda belakang menggunakan gambarRoda() yang ditempatkan dengan translasi.
 4. gambarJalan(): Menggambar jalan raya yang terdiri dari persegi panjang abu-abu dan garis jalan putih sebagai marka jalan. Garis putih dibuat berulang menggunakan for looping.
-   
