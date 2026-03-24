@@ -50,6 +50,7 @@ a. Pergerakan Bahu (menekan tombol "s" yang artinya berputar +5° terhadap sumbu
 ### Sesudah
 <img width="1343" height="935" alt="image" src="https://github.com/user-attachments/assets/cec0ce0a-743b-4c76-936f-37ee78e53e54" />
 
+----
 
 b. Pergerakan Siku (menekan tombol "E" yang artinya berputar -5° terhadap sumbu Z, saya menekan 18 kali yang artinya -90° terhadap sumbu Z)
 ### Sebelum
@@ -58,6 +59,7 @@ b. Pergerakan Siku (menekan tombol "E" yang artinya berputar -5° terhadap sumbu
 ### Sesudah
 <img width="1344" height="935" alt="image" src="https://github.com/user-attachments/assets/807dc026-5b47-4498-8e30-94f21c0a5ce7" />
 
+----
 
 c. Pergerakan Pergelangan (menekan tombol "W" yang artinya berputar -5° terhadap sumbu Z, saya menekan 18 kali yang artinya -90° terhadap sumbu Z)
 ### Sebelum
@@ -66,6 +68,7 @@ c. Pergerakan Pergelangan (menekan tombol "W" yang artinya berputar -5° terhada
 ### Sesudah
 <img width="1343" height="938" alt="image" src="https://github.com/user-attachments/assets/cf63e415-8ffc-4eea-89d0-2617ef535764" />
 
+----
 
 d. Pergerakan Jari (menekan tombol-tombol kombinasi yang telah dijelaskan sebelumnya, berputar +5° terhadap sumbu Z setiap kali tombol kombinasi di tekan)
 ### Angka 1
