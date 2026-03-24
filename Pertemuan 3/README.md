@@ -38,31 +38,33 @@
    Interaksi dengan keyboard memungkinkan pengguna menggerakkan setiap sendi dan ruas jari secara manual. Tombol s dan S menggerakkan bahu ke arah berlawanan, e dan E untuk siku, serta w dan W untuk pergelangan. Jari‑jari diatur dengan kombinasi tombol angka dan huruf: jari telunjuk memakai 1, !, dan q untuk tiga ruas; jari tengah dengan 2, @, dan a; jari manis dengan 3, #, dan z; jari kelingking dengan 4, $, dan x. Ibu jari digerakkan dengan 5 dan % untuk dua ruasnya. Dengan menekan tombol‑tombol ini, sudut rotasi tiap sendi bertambah sehingga bagian lengan atau jari berputar sesuai input. Tombol ESC digunakan untuk keluar dari program. Jadi, keyboard berfungsi sebagai kontrol interaktif yang memungkinkan pengguna menggerakkan lengan dan jari secara detail, seolah‑olah mengendalikan tangan virtual.
 3. ### Penjelasan
    a. Pergerakan Bahu (menekan tombol "s" yang artinya berputar +5° terhadap sumbu Z, saya menekan 18 kali yang artinya +90° terhadap sumbu Z)
-       Sebelum
-       <img width="1346" height="937" alt="image" src="https://github.com/user-attachments/assets/4b014e28-4efd-4ea0-9a5f-a793a7b9a8eb" />
+### Sebelum
+<img width="1346" height="937" alt="image" src="https://github.com/user-attachments/assets/4b014e28-4efd-4ea0-9a5f-a793a7b9a8eb" />
 
-       Sesudah
-       <img width="1343" height="935" alt="image" src="https://github.com/user-attachments/assets/cec0ce0a-743b-4c76-936f-37ee78e53e54" />
+### Sesudah
+<img width="1343" height="935" alt="image" src="https://github.com/user-attachments/assets/cec0ce0a-743b-4c76-936f-37ee78e53e54" />
 
   b. Pergerakan Siku (menekan tombol "E" yang artinya berputar -5° terhadap sumbu Z, saya menekan 18 kali yang artinya -90° terhadap sumbu Z)
-       Sebelum
-       <img width="1345" height="938" alt="image" src="https://github.com/user-attachments/assets/84981b9c-1c8d-42c6-8dcb-f80fbd554841" />
+### Sebelum
+<img width="1345" height="938" alt="image" src="https://github.com/user-attachments/assets/84981b9c-1c8d-42c6-8dcb-f80fbd554841" />
 
-       Sesudah
-       <img width="1344" height="935" alt="image" src="https://github.com/user-attachments/assets/807dc026-5b47-4498-8e30-94f21c0a5ce7" />
+### Sesudah
+<img width="1344" height="935" alt="image" src="https://github.com/user-attachments/assets/807dc026-5b47-4498-8e30-94f21c0a5ce7" />
 
   c. Pergerakan Pergelangan (menekan tombol "W" yang artinya berputar -5° terhadap sumbu Z, saya menekan 18 kali yang artinya -90° terhadap sumbu Z)
-       Sebelum
-       <img width="1349" height="939" alt="image" src="https://github.com/user-attachments/assets/61dde71a-bc36-462e-b66c-37f8e99184d5" />
+### Sebelum
+<img width="1349" height="939" alt="image" src="https://github.com/user-attachments/assets/61dde71a-bc36-462e-b66c-37f8e99184d5" />
 
-       Sesudah
-       <img width="1343" height="938" alt="image" src="https://github.com/user-attachments/assets/cf63e415-8ffc-4eea-89d0-2617ef535764" />
+### Sesudah
+<img width="1343" height="938" alt="image" src="https://github.com/user-attachments/assets/cf63e415-8ffc-4eea-89d0-2617ef535764" />
 
   d. Pergerakan Jari (menekan tombol-tombol kombinasi yang telah dijelaskan sebelumnya, berputar +5° terhadap sumbu Z setiap kali tombol kombinasi di tekan)
-      1. Angka 1
-         <img width="1343" height="933" alt="image" src="https://github.com/user-attachments/assets/72a06f94-81d7-4c1d-b500-b8daad87d6d1" />
-      2. Metal (Anak Muda, maklum)
-         <img width="1349" height="944" alt="image" src="https://github.com/user-attachments/assets/81d93652-1ee3-4440-97e0-95642d92091f" />
-      3. Pose Laki-Laki (kl disuruh foto)
-         <img width="1347" height="943" alt="image" src="https://github.com/user-attachments/assets/fc913fda-7401-4915-b968-8b460a8fdf1d" />
+### Angka 1
+<img width="1343" height="933" alt="image" src="https://github.com/user-attachments/assets/72a06f94-81d7-4c1d-b500-b8daad87d6d1" />
+
+### Metal (Anak Muda, maklum)
+<img width="1349" height="944" alt="image" src="https://github.com/user-attachments/assets/81d93652-1ee3-4440-97e0-95642d92091f" />
+
+### Pose Laki-Laki (kl disuruh foto)
+<img width="1347" height="943" alt="image" src="https://github.com/user-attachments/assets/fc913fda-7401-4915-b968-8b460a8fdf1d" />
 
